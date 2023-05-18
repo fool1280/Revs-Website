@@ -12,12 +12,12 @@ Start server:
 npm start
 ```
 
-Dev locally on MacOS and triggers both frontend and backend:
+Dev locally on MacOS and run both frontend and backend:
 ```
 npm run dev-mac
 ```
 
-Dev locally on Windows:
+Dev locally on Windows and run both frontend and backend:
 ```
 npm run dev-win
 ```
