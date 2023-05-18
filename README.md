@@ -12,7 +12,7 @@ Start server:
 npm start
 ```
 
-Dev locally on MacOS:
+Dev locally on MacOS and triggers both frontend and backend:
 ```
 npm run dev-mac
 ```
